@@ -5,17 +5,20 @@
   margin: 0;
   box-sizing: border-box;
 }
+
 html {
   font-size: 20px;
   font-weight: 300;
   font-family: sans-serif;
   line-height: 1.5;
 }
+
 body {
   min-height: 100vh;
   background-color: #333;
   color: #eee;
 }
+
 header,
 main,
 footer {
@@ -23,12 +26,15 @@ footer {
   padding: 1rem 2rem;
   margin: 0 auto;
 }
+
 header h1 {
   color: crimson;
 }
+
 header h2 {
   color: coral;
 }
+
 p {
   line-height: 1.7;
   margin: 1.5rem 0;
